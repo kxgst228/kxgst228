@@ -9,4 +9,4 @@ Previously: Forethought (ML), Freshworks (Backend → ML).
 - Real-time inference infrastructure (streaming, batching, model serving)
 - ML deployment safety (drift detection, regression testing)
 
-[Portfolio](https://kethan.vercel.app) · [LinkedIn](https://linkedin.com/in/goparapu-kethan-82a50a190)
+[Portfolio](https://kethangoparapu.vercel.app) · [LinkedIn](https://linkedin.com/in/goparapu-kethan-82a50a190)
